@@ -1,0 +1,39 @@
+
+.generator{
+    display: flex;
+}
+
+.mainContainer, .container {
+    width: 100%;
+    
+    display: grid;
+    grid-template-columns: repeat(25, 1fr);
+    grid-template-rows: repeat(25, 1fr);
+    grid-column-gap: 0;
+    grid-row-gap: 0;
+}
+
+.mainContainer{
+    height: 300px;
+    background-color: transparent;
+    position: relative;
+}
+
+.container{
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+
+.tile{
+    cursor: pointer;
+    border: 1px solid #616161;
+    border-width: 0 1px 1px 0;
+}
+ /*
+.tile:hover{
+   background-color: rgba(224, 224, 224, 0.35) !important;
+}
+*/
+

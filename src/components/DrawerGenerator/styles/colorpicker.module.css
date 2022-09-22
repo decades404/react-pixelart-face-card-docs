@@ -1,0 +1,22 @@
+.colorPicker{
+   max-width: 10%;
+}
+
+.colors{
+    padding: 10px;
+    display: flex;
+   
+    flex-wrap: wrap;
+}
+
+.colorContainer{
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    margin: 1px;
+}
+
+.selectedColor{
+    box-sizing: border-box;
+    border: black 5px solid;
+}
