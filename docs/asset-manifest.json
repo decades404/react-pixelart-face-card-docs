@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-pixelart-face-card-docs/docs/static/css/main.7d06742f.css",
-    "main.js": "/react-pixelart-face-card-docs/docs/static/js/main.e5047edf.js",
-    "static/js/787.4af12d02.chunk.js": "/react-pixelart-face-card-docs/docs/static/js/787.4af12d02.chunk.js",
-    "index.html": "/react-pixelart-face-card-docs/docs/index.html",
-    "main.7d06742f.css.map": "/react-pixelart-face-card-docs/docs/static/css/main.7d06742f.css.map",
-    "main.e5047edf.js.map": "/react-pixelart-face-card-docs/docs/static/js/main.e5047edf.js.map",
-    "787.4af12d02.chunk.js.map": "/react-pixelart-face-card-docs/docs/static/js/787.4af12d02.chunk.js.map"
+    "main.css": "/react-pixelart-face-card-docs/static/css/main.7d06742f.css",
+    "main.js": "/react-pixelart-face-card-docs/static/js/main.b45a3b8f.js",
+    "static/js/787.4af12d02.chunk.js": "/react-pixelart-face-card-docs/static/js/787.4af12d02.chunk.js",
+    "index.html": "/react-pixelart-face-card-docs/index.html",
+    "main.7d06742f.css.map": "/react-pixelart-face-card-docs/static/css/main.7d06742f.css.map",
+    "main.b45a3b8f.js.map": "/react-pixelart-face-card-docs/static/js/main.b45a3b8f.js.map",
+    "787.4af12d02.chunk.js.map": "/react-pixelart-face-card-docs/static/js/787.4af12d02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d06742f.css",
-    "static/js/main.e5047edf.js"
+    "static/js/main.b45a3b8f.js"
   ]
 }
