@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d06742f.css",
-    "main.js": "/static/js/main.b4f68868.js",
-    "static/js/787.4af12d02.chunk.js": "/static/js/787.4af12d02.chunk.js",
-    "index.html": "/index.html",
-    "main.7d06742f.css.map": "/static/css/main.7d06742f.css.map",
-    "main.b4f68868.js.map": "/static/js/main.b4f68868.js.map",
-    "787.4af12d02.chunk.js.map": "/static/js/787.4af12d02.chunk.js.map"
+    "main.css": "/react-pixelart-face-card-docs/static/css/main.7d06742f.css",
+    "main.js": "/react-pixelart-face-card-docs/static/js/main.b45a3b8f.js",
+    "static/js/787.4af12d02.chunk.js": "/react-pixelart-face-card-docs/static/js/787.4af12d02.chunk.js",
+    "index.html": "/react-pixelart-face-card-docs/index.html",
+    "main.7d06742f.css.map": "/react-pixelart-face-card-docs/static/css/main.7d06742f.css.map",
+    "main.b45a3b8f.js.map": "/react-pixelart-face-card-docs/static/js/main.b45a3b8f.js.map",
+    "787.4af12d02.chunk.js.map": "/react-pixelart-face-card-docs/static/js/787.4af12d02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d06742f.css",
-    "static/js/main.b4f68868.js"
+    "static/js/main.b45a3b8f.js"
   ]
 }
