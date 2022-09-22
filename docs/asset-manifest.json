@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-pixelart-face-card-docs/static/css/main.3593040f.css",
-    "main.js": "/react-pixelart-face-card-docs/static/js/main.7cfa196b.js",
-    "static/js/787.4af12d02.chunk.js": "/react-pixelart-face-card-docs/static/js/787.4af12d02.chunk.js",
-    "index.html": "/react-pixelart-face-card-docs/index.html",
-    "main.3593040f.css.map": "/react-pixelart-face-card-docs/static/css/main.3593040f.css.map",
-    "main.7cfa196b.js.map": "/react-pixelart-face-card-docs/static/js/main.7cfa196b.js.map",
-    "787.4af12d02.chunk.js.map": "/react-pixelart-face-card-docs/static/js/787.4af12d02.chunk.js.map"
+    "main.css": "/static/css/main.3593040f.css",
+    "main.js": "/static/js/main.18a23015.js",
+    "static/js/787.4af12d02.chunk.js": "/static/js/787.4af12d02.chunk.js",
+    "index.html": "/index.html",
+    "main.3593040f.css.map": "/static/css/main.3593040f.css.map",
+    "main.18a23015.js.map": "/static/js/main.18a23015.js.map",
+    "787.4af12d02.chunk.js.map": "/static/js/787.4af12d02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3593040f.css",
-    "static/js/main.7cfa196b.js"
+    "static/js/main.18a23015.js"
   ]
 }
