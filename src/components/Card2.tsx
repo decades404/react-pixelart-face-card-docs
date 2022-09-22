@@ -3,7 +3,7 @@ import { PixelArtCard } from 'react-pixelart-face-card'
 
 export const Card2Code =
 `
-    <div style={{ width: 500, backgroundColor: 'white', borderRadius: 10, padding: 20 }}>
+    <div style={{ width: 400, backgroundColor: 'white', borderRadius: 10, padding: 20 }}>
         <div style={{ fontWeight: 'bold', fontSize: 18 }}>Rare Cards!</div>
 
         <div style={{ display: 'flex', flexWrap: 'wrap' }} >
@@ -35,7 +35,7 @@ export const Card2Code =
 
 export const Card2 = () => {
     return (
-        <div style={{ width: 500, backgroundColor: 'white', borderRadius: 10, padding: 20 }}>
+        <div style={{ width: 400, backgroundColor: 'white', borderRadius: 10, padding: 20 }}>
             <div style={{ fontWeight: 'bold', fontSize: 18 }}>Rare Cards!</div>
 
             <div style={{ display: 'flex', flexWrap: 'wrap' }} >

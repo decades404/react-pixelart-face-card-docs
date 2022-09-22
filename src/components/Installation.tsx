@@ -1,6 +1,6 @@
 const lines = [
     "import { PixelArtCard }  from 'react-pixelart-face-card'",
-    "<PixelArtCard  random={true}  tags={['human-female','human-male']}/>"
+    "<PixelArtCard  random={true} size={200} tags={['human-female','human-male']}/>"
 ]
 
 export const Installation = () => {

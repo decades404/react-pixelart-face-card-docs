@@ -69,6 +69,7 @@ export const useFaceGenerator = () => {
         let newGeneratedCode = `<PixelArtCard size={350} color={'${faceSkin}'}>
         `;
 
+        
         Object.entries(options).map( ([key,item]) => {
             const _item: any = item;
             newGeneratedCode += `<PixelArtCard.${_item.componentId} value={'${_item.value}'} ${_item.color!= '' ? `color={'${_item.color}'} ` : ''}/>

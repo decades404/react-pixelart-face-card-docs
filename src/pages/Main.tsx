@@ -10,7 +10,7 @@ import { FaceGenerator } from "../components/FaceGenerator/FaceGenerator";
 
 export const Main = () => {
   return (
-    <div className=' bg-indigo-100 '>
+    <div className=' bg-indigo-100 overflow-x-hidden '>
       <Title />
       <Installation />
 

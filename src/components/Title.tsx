@@ -6,10 +6,10 @@ const items = 32;
 export const Title = () => {
     return (
         <div className='items-center text-center'>
-            <div className='grid grid-cols-16  bg-indigo-400 py-4  '>
+            <div className='grid overflow-hidden sm:grid-cols-4 sm:max-h-64  lg:max-h-max  md:grid-cols-10 lg:grid-cols-16  bg-indigo-400 py-4  '>
                 {
                     Array.from(Array(items).keys()).map((i) => (
-                        <div className='flex  justify-center h-28'>
+                        <div className='flex relative justify-center h-28'>
                             <PixelArtCard random={true} tags={['human-female', 'human-male']} />
                         </div>
                     ))
@@ -20,10 +20,10 @@ export const Title = () => {
                 <p className='font-press text-amber-400 text-2xl'>Pixel Art Face Card </p>
             </div>
 
-            <div className='grid grid-cols-16   bg-indigo-400 py-4 '>
+            <div className='grid overflow-hidden sm:grid-cols-4 sm:max-h-64  lg:max-h-max  md:grid-cols-10 lg:grid-cols-16  bg-indigo-400 py-4 '>
                 {
                     Array.from(Array(items).keys()).map((i) => (
-                        <div className='flex  justify-center h-28'>
+                        <div className='flex relative justify-center h-28'>
                             <PixelArtCard random={true} tags={['human-female','human-male']} />
                         </div>
                     ))

@@ -19,7 +19,7 @@ export const LayerEdit = ({ id, selected, showDeleteButton, layer, onClick, onCl
     return (
         <div
             onClick={onClick}
-            className={` w-full min-h-80 bg-slate-200 p-2 m-0.5 rounded-sm flex cursor-pointer relative  ${selected ? 'text-white bg-slate-800' : '!text-slate-800'}`}
+            className={` w-full min-h-80  p-2 m-0.5 rounded-sm flex cursor-pointer relative  ${selected ? 'text-white bg-slate-800' : '!text-slate-800'}`}
         >
             <div style={{ width: '100px', height: '100px', position: 'relative' }}>
                 <PixelArtFace size={100} animate={false} />
@@ -55,7 +55,7 @@ export const LayerEdit = ({ id, selected, showDeleteButton, layer, onClick, onCl
                         e.stopPropagation();
                         onClickDelete!(e)
                     }}
-                    className="btn btn-circle absolute right-4 top-4">
+                    className="btn btn-circle absolute right-2 top-2">
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
                 </button>
 

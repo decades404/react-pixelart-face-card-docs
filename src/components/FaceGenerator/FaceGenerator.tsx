@@ -59,7 +59,7 @@ export const FaceGenerator = () => {
                     </div>
 
                     <div>
-                        <div className='grid grid-cols-3 gap-6 m-4'>
+                        <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 m-4'>
                             {
                                 Object.entries(itemsData).map(([key, item]) => {
                                     return (
